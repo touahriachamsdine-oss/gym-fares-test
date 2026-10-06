@@ -1,4 +1,3 @@
-netlify.toml (optional, for root monorepo build)
 [build]
   base = "frontend"
   command = "npm run build"
