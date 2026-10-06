@@ -1,0 +1,8 @@
+netlify.toml (optional, for root monorepo build)
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
