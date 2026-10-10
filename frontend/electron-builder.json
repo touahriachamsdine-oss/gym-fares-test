@@ -1,0 +1,13 @@
+﻿{
+    "appId":  "com.faresgym.app",
+    "productName":  "Fares Gym",
+    "directories":  {
+                        "buildResources":  "build",
+                        "output":  "dist_electron"
+                    },
+    "files":  [
+                  "electron/**/*",
+                  "dist/**/*"
+              ],
+    "asar":  false
+}
