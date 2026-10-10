@@ -4,3 +4,6 @@ build
 .env
 uploads
 .DS_Store
+
+frontend/dist_electron/
+
